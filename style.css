@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 80px;
+    border-radius: 30px;
+    background-color: salmon;
+    padding: 10px;
+    margin: 2% 10%;
+    font-family:'Arial Narrow Bold', sans-serif;
+}
+body{
+    margin: 5%;
+    padding: 10px;
+    background-color: bisque;
+}
+div{ background-color: darksalmon;
+    margin: 5%;
+}
+h2{
+    text-align: left;
+    font-family: 'Franklin Gothic Medium';
+    padding: 10px;
+}
+p{
+    font-family: Arial, Helvetica;
+    text-align: justify; 
+    padding: 10px;
+}
